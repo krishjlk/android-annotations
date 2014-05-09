@@ -10,6 +10,8 @@ import android.widget.EditText;
 
 public class AnnotationActivity extends Activity {
 
+	// Comment
+	
 	@MyAnnotation(id = R.id.edtText, tag = "EditTextTag")
 	public EditText editText;
 	
