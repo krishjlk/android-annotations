@@ -12,7 +12,7 @@ public class AnnotationActivity extends Activity {
 
 	// Comment
 	
-	@MyAnnotation(id = R.id.edtText, tag = "KKRemoteEditTextTag")
+	@MyAnnotation(id = R.id.edtText, tag = "KKLocalEditTextTag")
 	public EditText editText;
 	
 	
